@@ -62,4 +62,11 @@ $(function(){
 
   });
 
+
 });
+
+//stuff added for photo gallery (https://www.webcodegeeks.com/html5/html5-photo-gallery-example/)
+
+
+
+
